@@ -1,0 +1,9 @@
+h1 {font-family: 'Pacifico';}
+
+p {font-family: 'Rowdies';}
+
+li {
+    display: inline;
+    float: right;
+    padding: 10px;
+  }
